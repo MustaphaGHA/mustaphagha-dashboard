@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MustaphaGHA/mustaphagha-dashboard">
-    <img src="assets/readme/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dashboard</h3>
@@ -229,4 +229,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/MustaphaGHA/mustaphagha-dashboard/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mustapha-ghannouchi
-[product-screenshot]: assets/readme/screenshot.png
+[product-screenshot]: src/assets/readme/screenshot.png
